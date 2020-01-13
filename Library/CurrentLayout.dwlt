@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -72,7 +72,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 12008, y: 14048}
   vertical: 0
-  controlID: 29
+  controlID: 119
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -217,7 +217,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 498}
   m_MaxSize: {x: 12008, y: 14048}
   vertical: 1
-  controlID: 30
+  controlID: 120
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -243,7 +243,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 224}
   m_MaxSize: {x: 12008, y: 4024}
   vertical: 0
-  controlID: 31
+  controlID: 121
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -263,8 +263,8 @@ MonoBehaviour:
     y: 0
     width: 1171
     height: 801
-  m_MinSize: {x: 204, y: 224}
-  m_MaxSize: {x: 4004, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 16}
@@ -377,14 +377,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\Tobias Andersen\Documents\WhaleGuruVR
+  m_LastProjectPath: C:\Users\Tobias Andersen\Documents\WhaleGuruVR2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 182a0000
     m_LastClickedID: 10776
-    m_ExpandedIDs: 00000000182a00000e2b0000d02b0000fc2b0000882c0000b22c0000b02d000000ca9a3b
+    m_ExpandedIDs: 00000000182a00000c2b0000ce2b0000fa2b0000862c0000b02c0000ae2d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -412,7 +412,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000182a0000d02b0000fc2b0000882c0000b22c0000b02d0000
+    m_ExpandedIDs: 00000000182a00000c2b0000ce2b0000fa2b0000862c0000b02c0000ae2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -439,7 +439,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300003a2e0000d6060000ca2c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -498,7 +498,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: bef2ffffdaf2ffff9ef5ffffaaf5ffffb6f5ffffc2f5ffffcef5ffffdaf5ffffe6f5fffff2f5fffffef5ffff0af6ffff16f6ffff22f6ffff2ef6ffff3af6ffff46f6ffff52f6ffff5ef6ffff6af6ffff76f6ffff82f6ffff8ef6ffff9af6ffffa6f6ffffb2f6ffffbef6ffffcaf6ffffd6f6ffff06f7ffff8cf8ffff98f8ffffa4f8ffffb0f8ffffbcf8ffffc8f8ffffd4f8ffffe0f8ffffecf8fffffef8ffff10f9ffff1cf9ffff32f9ffff62f9ffffdefbffff
+      m_ExpandedIDs: defbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
